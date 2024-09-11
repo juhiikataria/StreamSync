@@ -1,8 +1,6 @@
-# # Medpay-Task ( Devrishi Sikka )
+# # StreamSync
 
 Build a publisher/subscribe model to process streaming data and provide an up-to-date view of incoming data.
-
-[Click here to try the API](http://13.235.242.50/docs)
 
 
 ## Getting Started
@@ -16,8 +14,8 @@ Build a publisher/subscribe model to process streaming data and provide an up-to
       ```
    b. Clone the Project
       
-        https://github.com/DevrishiSikka/Medpay-Task.git
-        cd Medpay-Task-main
+        https://github.com/juhiikataria/StreamSync.git
+        cd StreamSync
    
    c. Run the FastAPI application:
       
